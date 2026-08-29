@@ -1,0 +1,37 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a1628"/>
+      <stop offset="100%" stop-color="#0d2138"/>
+    </linearGradient>
+    <clipPath id="clip">
+      <rect width="1200" height="300" rx="12"/>
+    </clipPath>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg)" rx="12"/>
+
+  <g clip-path="url(#clip)" font-family="Consolas, Monaco, monospace" fill="#2ec4f1" opacity="0.14" font-size="15">
+    <text x="620" y="30">{ };= function (){ for function () true, true</text>
+    <text x="640" y="55">};= function () [] &amp;&amp; while class const let</text>
+    <text x="660" y="80">{ };= function () const let true false || !(</text>
+    <text x="600" y="105">};= function () [] &amp;&amp;|| ! while true false</text>
+    <text x="630" y="130">const late l &amp;&amp; || ! for functi</text>
+    <text x="650" y="155">{};= function () &amp;&amp; || for</text>
+    <text x="610" y="180">functions class const let functi</text>
+    <text x="640" y="205">const();= function ()[]</text>
+    <text x="660" y="230">&amp;&amp; ||! for ] ! for t]</text>
+    <text x="600" y="255">forwhile class class con</text>
+    <text x="630" y="280">}= function const let true if</text>
+    <text x="650" y="45">for y, !== function() { for</text>
+    <text x="620" y="70">}}; =function () [] &amp;&amp; || ! for while class const</text>
+    <text x="640" y="95">}); for while class const let true const let false</text>
+    <text x="600" y="120">unction () &amp;&amp; || !fnd that const let true class</text>
+  </g>
+
+  <text x="60" y="140" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="58" fill="#ffffff">FEDERICO <tspan fill="#2ec4f1">LAURA</tspan></text>
+
+  <text x="62" y="180" font-family="Arial, Helvetica, sans-serif" font-weight="600" font-size="24" letter-spacing="2" fill="#ffffff">ESTUDIANTE DE PROGRAMACIÓN | UTN</text>
+
+  <text x="1010" y="185" font-family="Consolas, Monaco, monospace" font-weight="700" font-size="90" fill="#2ec4f1">&lt;/&gt;</text>
+</svg>

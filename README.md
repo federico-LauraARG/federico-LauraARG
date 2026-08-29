@@ -1,21 +1,20 @@
 <div align="center">
 
-<sub>ESTUDIANTE DE PROGRAMACIÓN · BUENOS AIRES, AR</sub>
-
-# Federico Laura
-
-<sub>Python · Java · Git · SQL</sub>
+![Banner](./banner.svg)
 
 </div>
 
 ---
 
-# Hola, soy Fede
+# Hola, soy Fede 👋
 
 Estudiante de primer año de la **Tecnicatura Universitaria en Programación** (UTN Avellaneda).
 Enfocado en **desarrollo de software**.
 Formación autodidacta previa en Python, Git y web básica, ahora profundizando con base académica.
 
+```
+🔭 En constante aprendizaje 👨🏽‍💻
+```
 ---
 
 ## Stack

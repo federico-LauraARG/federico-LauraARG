@@ -7,10 +7,11 @@
 ---
 
 # Hola, soy Fede 👋
+Estudiante de primer año de la **Tecnicatura Universitaria en Programación (UTN Avellaneda)**. Con formación autodidacta previa y profundización académica actual enfocado en el desarrollo de software y la seguridad informática.
 
-Estudiante de primer año de la **Tecnicatura Universitaria en Programación** (UTN Avellaneda).
-Enfocado en **desarrollo de software**.
-Formación autodidacta previa en Python, Git y web básica, ahora profundizando con base académica.
+- ⚙️ **En constante aprendizaje:** Actualmente profundizando en Programación Orientada a Objetos con **Java** y explorando fundamentos de **Ciberseguridad**.
+- 🛠️ **Laboratorio propio:** Experimentando con entornos de virtualización, administración de sistemas **Linux** y herramientas de auditoría (**Kali Linux**).
+
 
 ```
 🔭 En constante aprendizaje 👨🏽‍💻
